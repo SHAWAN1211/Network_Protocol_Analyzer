@@ -115,7 +115,9 @@ streamlit run dashboard.py
 📚 Learning Outcomes
 
  🧠 Understanding of network packet structure (IP, TCP, UDP)
+ 
  🤖 Use of unsupervised machine learning for anomaly detection
+ 
  📈 Visualizing network patterns and threats in real-time
 
 🙌 Acknowledgements
